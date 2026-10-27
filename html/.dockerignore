@@ -1,0 +1,26 @@
+# Git
+.git
+.gitignore
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Archivos sensibles
+.env
+.env.*
+*.key
+*.pem
+
+# Carpetas de desarrollo
+.vscode
+.idea
+venv
+node_modules
+vendor
+target
+
+# Evidencias
+evidencias/
